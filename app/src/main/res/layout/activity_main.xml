@@ -7,7 +7,7 @@
     tools:context=".FormActivity">
 
     <EditText
-        android:id="@+id/editTextTextPassword2"
+        android:id="@+id/editPassword2"
         android:layout_width="409dp"
         android:layout_height="78dp"
         android:layout_marginBottom="336dp"
@@ -27,7 +27,7 @@
         tools:layout_editor_absoluteX="1dp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/editName"
         android:layout_width="409dp"
         android:layout_height="66dp"
         android:layout_marginBottom="540dp"
@@ -38,7 +38,7 @@
         tools:layout_editor_absoluteX="1dp" />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress"
+        android:id="@+id/editEmail"
         android:layout_width="409dp"
         android:layout_height="65dp"
         android:layout_marginBottom="474dp"
@@ -49,7 +49,7 @@
         tools:layout_editor_absoluteX="1dp" />
 
     <EditText
-        android:id="@+id/editTextTextPassword"
+        android:id="@+id/editPassword"
         android:layout_width="409dp"
         android:layout_height="72dp"
         android:layout_marginBottom="401dp"
