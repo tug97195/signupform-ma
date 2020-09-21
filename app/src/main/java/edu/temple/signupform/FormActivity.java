@@ -41,7 +41,7 @@ public class FormActivity extends AppCompatActivity {
                 } else{
                     if(password.equals(password2)){
                         Context context = getApplicationContext();
-                        CharSequence text = "Welcome: " + name;
+                        CharSequence text = "Welcome, " + name + " , to the SignUpFormApp";
                         int duration = Toast.LENGTH_SHORT;
                         Toast toast = Toast.makeText(context, text, duration);
                         toast.show();
